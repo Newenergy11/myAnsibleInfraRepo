@@ -6,7 +6,7 @@
    tags: provisioning
 
    vars:
-     keypair: mySep22Key
+     keypair: Mama
      instance_type: t2.micro
      image: ami-0ee23bfc74a881de5
      wait: yes
